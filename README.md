@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Omar Gawad 👋
 
-<!--
-**omargawad22/omargawad22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 **Faculty:** Computers and Information - Helwan National University
+- 📊 **Major:** Data Science
+- 💻 **Passionate about:** Data Science, Programming, and Tech
+- 🌱 **Currently learning:** Programming Fundamentals & Problem Solving
+- 🎯 **Goals:** Building real-world Data Science projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with me:
+- **LinkedIn:** [Omar Gawad](https://www.linkedin.com/in/omar-gawad-0a9004301)
+
+---
+*“Learning every day to build the future with data!”*
